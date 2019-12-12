@@ -57,12 +57,6 @@ Encryption ENDP
 
 END main
 COMMENT &
-C:\project1>\masm32\bin\ml /c /Zd /coff /Enc.asm
-Microsoft (R) Macro Assembler Version 6.14.8444
-Copyright (C) Microsoft Corp 1981-1997.  All rights reserved.
-
-MASM : warning A4018: invalid command-line option : /Enc.asm
-MASM : fatal error A1017: missing source filename
 
 C:\project1>\masm32\bin\ml /c /Zd /coff Enc.asm
 Microsoft (R) Macro Assembler Version 6.14.8444
