@@ -1,5 +1,5 @@
 ; Andrea Habib   (Andrea.asm)
-; Printout strings in reverse
+; Encrypt text
 include \masm32\include\Irvine32.inc
 includelib \masm32\lib\kernel32.lib
 includelib \masm32\lib\Irvine32.lib
